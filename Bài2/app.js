@@ -1,8 +1,7 @@
 
 const $number = document.getElementById ('input-number');
 const $btn = document.getElementById('btn');
-const $hinh = document.getElementById ('hinh');
-const $tamGiac = document.getElementById ('tam-giac')
+
 
 $btn.onclick = () => {
 
